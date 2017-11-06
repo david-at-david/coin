@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 3.5.1, 2017-11-05T20:24:52. -->
+<!-- Written by QtCreator 3.5.1, 2017-11-05T22:51:10. -->
 <qtcreator>
  <data>
   <variable>Profile.0</variable>
@@ -27,12 +27,37 @@
   </valuemap>
  </data>
  <data>
+  <variable>Profile.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString" key="Android.GdbServer.Information"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{c484105b-2cf2-446e-814c-ffe6b26cbe76}</value>
+    <value type="QString" key="Debugger.Information">{4c3cbdee-8de7-4ecd-9ab1-ff33147a27a2}</value>
+    <value type="QString" key="PE.Profile.Device">Desktop Device</value>
+    <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
+    <valuelist type="QVariantList" key="PE.Profile.Environment"/>
+    <value type="QString" key="PE.Profile.SysRoot"></value>
+    <value type="QString" key="PE.Profile.ToolChain">ProjectExplorer.ToolChain.Gcc:{3591d2da-2494-4c0d-9036-5cdd340b5ff5}</value>
+    <value type="QString" key="QtPM4.mkSpecInformation"></value>
+    <value type="int" key="QtSupport.QtInformation">2</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.Icon">:///DESKTOP///</value>
+   <value type="QString" key="PE.Profile.Id">{1454a630-4951-41ad-b880-974f0f324663}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">GCC</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
+  </valuemap>
+ </data>
+ <data>
   <variable>Profile.Count</variable>
-  <value type="int">1</value>
+  <value type="int">2</value>
  </data>
  <data>
   <variable>Profile.Default</variable>
-  <value type="QString">{51ab31c9-d607-4399-ad4a-dee90ab928b7}</value>
+  <value type="QString">{1454a630-4951-41ad-b880-974f0f324663}</value>
  </data>
  <data>
   <variable>Version</variable>

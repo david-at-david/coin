@@ -1,2 +1,0 @@
-gpg-agent stop/pre-start, process 1258
-gpgconf: warning: can not open config file /home/user/.gnupg/gpg-agent.conf: No such file or directory

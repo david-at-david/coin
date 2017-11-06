@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 3.5.1, 2017-11-05T20:25:00. -->
+<!-- Written by QtCreator 3.5.1, 2017-11-05T22:51:10. -->
 <qtcreator>
  <data>
   <variable>Color</variable>
@@ -8,7 +8,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAAAAAAAAAAACQAAAAVlbXB0eQ==</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAEAAABGAC8AaABvAG0AZQAvAHUAcwBlAHIALwBDAG8AaQBuAC8AcwByAGMALwBjAGgAZQBjAGsAcABvAGkAbgB0AHMALgBjAHAAcAAAAAwAAAAAGAAAAAEAAAAAAAAAbgAAABsAAABgAAAAAAAAAAEAAABGAC8AaABvAG0AZQAvAHUAcwBlAHIALwBDAG8AaQBuAC8AcwByAGMALwBjAGgAZQBjAGsAcABvAGkAbgB0AHMALgBjAHAAcAAAAB4AYwBoAGUAYwBrAHAAbwBpAG4AdABzAC4AYwBwAHAAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAAKEAAAANY3VycmVudGVkaXRvcgAAAEYALwBoAG8AbQBlAC8AdQBzAGUAcgAvAEMAbwBpAG4ALwBzAHIAYwAvAGMAaABlAGMAawBwAG8AaQBuAHQAcwAuAGMAcABwAAAAJgBDAHAAcABFAGQAaQB0AG8AcgAuAEMAKwArAEUAZABpAHQAbwByAAAAGAAAAAEAAAAAAAAAbgAAABsAAABgAAAAAA==</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -16,13 +16,7 @@
  </data>
  <data>
   <variable>ProjectList</variable>
-  <valuelist type="QVariantList">
-   <value type="QString">/home/user/Coin/LearnCoin-qt.pro</value>
-  </valuelist>
- </data>
- <data>
-  <variable>StartupProject</variable>
-  <value type="QString">/home/user/Coin/LearnCoin-qt.pro</value>
+  <valuelist type="QVariantList"/>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -46,10 +40,6 @@
    <valuelist type="QVariantList">
     <value type="QString">session</value>
     <value type="QString">session</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/home/user/Coin/LearnCoin-qt.pro</value>
-    <value type="QString">LearnCoin-qt</value>
    </valuelist>
   </valuelist>
  </data>
