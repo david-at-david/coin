@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/Coin/src/irc.cpp" added="2017-11-06T01:11:29Z" modified="2017-11-06T01:11:38Z" visited="2017-11-06T01:11:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:11:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/init.cpp" added="2017-11-06T01:12:58Z" modified="2017-11-06T01:12:58Z" visited="2017-11-06T01:12:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:12:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/main.cpp" added="2017-11-06T01:14:13Z" modified="2017-11-06T01:14:13Z" visited="2017-11-06T01:14:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:14:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/net.cpp" added="2017-11-06T01:15:22Z" modified="2017-11-06T01:15:22Z" visited="2017-11-06T01:15:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:15:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/bitcoinrpc.cpp" added="2017-11-06T01:16:08Z" modified="2017-11-06T01:16:08Z" visited="2017-11-06T01:16:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:16:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/rpcdump.cpp" added="2017-11-06T01:16:50Z" modified="2017-11-06T01:16:50Z" visited="2017-11-06T01:16:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:16:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/util.cpp" added="2017-11-06T01:17:48Z" modified="2017-11-06T01:17:48Z" visited="2017-11-06T01:17:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:17:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/LearnCoin" added="2017-11-06T01:20:27Z" modified="2017-11-06T01:20:27Z" visited="2017-11-06T01:20:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:20:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/makefile.unix" added="2017-11-06T01:21:50Z" modified="2017-11-06T01:22:15Z" visited="2017-11-06T01:21:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-11-06T01:21:50Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-11-06T01:22:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/makefile.osx" added="2017-11-06T01:22:19Z" modified="2017-11-06T01:22:45Z" visited="2017-11-06T01:22:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-11-06T01:22:19Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-11-06T01:22:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/makefile.mingw" added="2017-11-06T01:22:48Z" modified="2017-11-06T01:23:12Z" visited="2017-11-06T01:22:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-11-06T01:22:48Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-11-06T01:23:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/src/makefile.linux-mingw" added="2017-11-06T01:23:16Z" modified="2017-11-06T01:23:39Z" visited="2017-11-06T01:23:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-11-06T01:23:16Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-11-06T01:23:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Coin/LearnCoin-qt.pro" added="2017-11-06T01:24:42Z" modified="2017-11-06T01:24:42Z" visited="2017-11-06T01:24:42.508666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.nokia.qt.qmakeprofile"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;qtcreator %F&apos;" modified="2017-11-06T01:24:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
