@@ -1,30 +1,29 @@
-ERROR 2017-11-05 22:11:25 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
-ERROR 2017-11-05 22:11:25 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:11:26 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
-WARN  2017-11-05 22:47:10 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
-WARN  2017-11-05 22:47:31 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2017-11-09 22:13:35 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2017-11-09 22:13:35 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon application-vnd.nokia.qt.qmakeprofile application-x-generic at size 64
+ERROR 2017-11-09 22:42:41 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+[31mvoid DBusMenuExporterPrivate::addAction(QAction*, int)[0m: Already tracking action "Follow Symbol Under Cursor" under id 173
+No tool chain set from kit "Desktop".
+No tool chain set from kit "Desktop".
+ERROR 2017-11-09 22:56:08 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+1510286471496	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
 console.error: 
   Corrupt session file (invalid JSON found) 
   Message: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
   Stack:
-    SessionFileInternal.read<@resource://app/modules/sessionstore/SessionFile.jsm:227:22
-TaskImpl_run@resource://gre/modules/Task.jsm:319:42
-process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
-walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
-scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+    _readInternal@resource:///modules/sessionstore/SessionFile.jsm:230:22
 
-  SessionFileInternal.read<@resource://app/modules/sessionstore/SessionFile.jsm:227:22
-TaskImpl_run@resource://gre/modules/Task.jsm:319:42
-process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
-walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
-scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+  _readInternal@resource:///modules/sessionstore/SessionFile.jsm:230:22
 
+1510286499187	addons.xpi	WARN	Add-on sbv4-gradual-rollout@mozilla.com is missing bootstrap method install
+1510286989554	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+1510286989567	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1510286989579	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1510286989591	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1510286989601	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1510286989664	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+1510286989676	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+1510286989699	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1510286989711	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+1510286989761	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1510286989802	addons.update-checker	WARN	Update manifest for sbv4-gradual-rollout@mozilla.com did not contain an updates property
+WARN  2017-11-09 23:54:48 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.

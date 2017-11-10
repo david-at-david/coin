@@ -379,3 +379,3914 @@ CBlock(hash=41e0f9e4c6950163b540, PoW=00000938f913dcc42f05, ver=1, hashPrevBlock
     CTxIn(COutPoint(0000000000, -1), coinbase 04ffff001d010409466972737420547279)
     CTxOut(error)
   vMerkleTree: c9a6ff7f36 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:11:17
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+41e0f9e4c6950163b5403e3bcae431247ed6db7ed11f7581834c1fec0c484202
+41e0f9e4c6950163b5403e3bcae431247ed6db7ed11f7581834c1fec0c484202
+c9a6ff7f36bbeccd4283e2a3d3b26a04999cbcabb9926f1e145215071fff4b49
+CBlock(hash=41e0f9e4c6950163b540, PoW=00000938f913dcc42f05, ver=1, hashPrevBlock=00000000000000000000, hashMerkleRoot=c9a6ff7f36, nTime=1509931750, nBits=1e0ffff0, nNonce=2086985604, vtx=1)
+  CTransaction(hash=c9a6ff7f36, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, -1), coinbase 04ffff001d010409466972737420547279)
+    CTxOut(error)
+  vMerkleTree: c9a6ff7f36 
+SetBestChain: new best=41e0f9e4c6950163b540  height=0  work=1048592  date=11/06/17 01:29:10
+ block index            1211ms
+Loading wallet...
+nFileVersion = 60300
+Performing wallet upgrade to 60000
+keypool added key 1, size=1
+keypool added key 2, size=2
+keypool added key 3, size=3
+keypool added key 4, size=4
+keypool added key 5, size=5
+keypool added key 6, size=6
+keypool added key 7, size=7
+keypool added key 8, size=8
+keypool added key 9, size=9
+keypool added key 10, size=10
+keypool added key 11, size=11
+keypool added key 12, size=12
+keypool added key 13, size=13
+keypool added key 14, size=14
+keypool added key 15, size=15
+keypool added key 16, size=16
+keypool added key 17, size=17
+keypool added key 18, size=18
+keypool added key 19, size=19
+keypool added key 20, size=20
+keypool added key 21, size=21
+keypool added key 22, size=22
+keypool added key 23, size=23
+keypool added key 24, size=24
+keypool added key 25, size=25
+keypool added key 26, size=26
+keypool added key 27, size=27
+keypool added key 28, size=28
+keypool added key 29, size=29
+keypool added key 30, size=30
+keypool added key 31, size=31
+keypool added key 32, size=32
+keypool added key 33, size=33
+keypool added key 34, size=34
+keypool added key 35, size=35
+keypool added key 36, size=36
+keypool added key 37, size=37
+keypool added key 38, size=38
+keypool added key 39, size=39
+keypool added key 40, size=40
+keypool added key 41, size=41
+keypool added key 42, size=42
+keypool added key 43, size=43
+keypool added key 44, size=44
+keypool added key 45, size=45
+keypool added key 46, size=46
+keypool added key 47, size=47
+keypool added key 48, size=48
+keypool added key 49, size=49
+keypool added key 50, size=50
+keypool added key 51, size=51
+keypool added key 52, size=52
+keypool added key 53, size=53
+keypool added key 54, size=54
+keypool added key 55, size=55
+keypool added key 56, size=56
+keypool added key 57, size=57
+keypool added key 58, size=58
+keypool added key 59, size=59
+keypool added key 60, size=60
+keypool added key 61, size=61
+keypool added key 62, size=62
+keypool added key 63, size=63
+keypool added key 64, size=64
+keypool added key 65, size=65
+keypool added key 66, size=66
+keypool added key 67, size=67
+keypool added key 68, size=68
+keypool added key 69, size=69
+keypool added key 70, size=70
+keypool added key 71, size=71
+keypool added key 72, size=72
+keypool added key 73, size=73
+keypool added key 74, size=74
+keypool added key 75, size=75
+keypool added key 76, size=76
+keypool added key 77, size=77
+keypool added key 78, size=78
+keypool added key 79, size=79
+keypool added key 80, size=80
+keypool added key 81, size=81
+keypool added key 82, size=82
+keypool added key 83, size=83
+keypool added key 84, size=84
+keypool added key 85, size=85
+keypool added key 86, size=86
+keypool added key 87, size=87
+keypool added key 88, size=88
+keypool added key 89, size=89
+keypool added key 90, size=90
+keypool added key 91, size=91
+keypool added key 92, size=92
+keypool added key 93, size=93
+keypool added key 94, size=94
+keypool added key 95, size=95
+keypool added key 96, size=96
+keypool added key 97, size=97
+keypool added key 98, size=98
+keypool added key 99, size=99
+keypool added key 100, size=100
+keypool added key 101, size=101
+keypool reserve 1
+keypool keep 1
+ wallet                  755ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  38ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=562hJ8xuy7HCH6eZKf6v8UnttWgrsQig93ZKMsawL1i3
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat checkpoint
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              20ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  14ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:16:17
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             139ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  196ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=JAvqVKVcrTFqguq9h6Ya8TsmZbtpB7rGavvCw8fPcHK4
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadRPCServer exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+Flushed 0 addresses to peers.dat  5ms
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended               7ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  18ms
+Flush(true)
+DBFlush(true) ended               0ms
+ThreadMessageHandler exited
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:17:08
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             148ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  269ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  1ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=BazwuDnJZ5FCLWad5DJucRdQCHtXtRUrfHnFcFUBLpiv
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+Flush(false)
+blkindex.dat refcount=0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat checkpoint
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              96ms
+StopNode()
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:17:38
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             102ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  174ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=7WNjqzbVH8HjEm7hewPhKLneBj76KVBF4pUEFUfbbHFt
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadOpenConnections started
+ThreadMessageHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler exited
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadDumpAddress exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended               6ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:18:28
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             110ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  167ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=58CYNWy1C41iG7M2uoxNx2tCV9STFL629ucKaHttWwej
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+ThreadRPCServer exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadOpenConnections started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadMessageHandler exited
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              95ms
+StopNode()
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:18:41
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index              92ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  170ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=8ZHxRHmnin8Coyy7A2ur6xtfTmWb6vSxRt7oL1dVRmNC
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadRPCServer exited
+ThreadMessageHandler started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler exited
+ThreadOpenConnections started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+Flushed 0 addresses to peers.dat  15ms
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              23ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  15ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:19:18
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             142ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  213ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=Fs8oqW4jattXmzdiZceP1daMmj9Xnaib4hhgLjPJiqFR
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+ThreadSocketHandler started
+ThreadOpenConnections started
+ThreadDumpAddress exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+wallet.dat closed
+DBFlush(false) ended               9ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  50ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:19:32
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             111ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  199ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=6GbbdzFbViG7g1W3WJJQa9pN2qFu3x8fi2RpJE7L11gA
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadIRCSeed started
+ThreadOpenConnections started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler exited
+ThreadDumpAddress exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              59ms
+StopNode()
+Flushed 0 addresses to peers.dat  60ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:19:53
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             137ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  178ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=89o1VWALcAsT39tyRzv6AKo6SZ2vqn9p5YcgyRoYXRRu
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadOpenConnections started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadMessageHandler started
+Flush(false)
+blkindex.dat refcount=0
+ThreadMessageHandler exited
+ThreadDumpAddress exited
+blkindex.dat checkpoint
+ThreadSocketHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              54ms
+StopNode()
+Flushed 0 addresses to peers.dat  5ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:20:06
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             119ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  230ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=2E9TEELGqcTtdnUB7Rbxdqo53ehGRk1GJBXY1BjUT4i3
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDumpAddress exited
+ThreadMessageHandler exited
+ThreadSocketHandler started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              27ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  16ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:20:34
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             125ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  197ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=8tXYEpQwNzvToAEy6AeeqxjYTQBaAH5av1F8cMqc8BMw
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadDumpAddress exited
+wallet.dat detach
+ThreadMessageHandler exited
+wallet.dat closed
+DBFlush(false) ended               8ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  47ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:24:20
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             119ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  215ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=4QD45KjvinVesiawtzeSKCKTgnvEBTPXiyR4qdpgH3Qe
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadIRCSeed started
+ThreadSocketHandler started
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDNSAddressSeed started
+ThreadRPCServer exited
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+Flush(false)
+Flushed 0 addresses to peers.dat  5ms
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              19ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  21ms
+Flush(true)
+DBFlush(true) ended               0ms
+ThreadMessageHandler exited
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:27:38
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             150ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  227ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=HtQajrThXkF8CVexJAA9mwfGacz4Q3CTf26u8xpkrMwZ
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadIRCSeed started
+ThreadSocketHandler started
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+ThreadOpenConnections started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              10ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  38ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:30:30
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             124ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  227ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=2zQfFYriKyivgwaudL3hye9DbTnU4zDE1NqcdDyAJ61c
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler started
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended             124ms
+StopNode()
+Flushed 0 addresses to peers.dat  7ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:34:02
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             122ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  215ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=A3TY1E6JcHM9Kgo5qwU1akVh2Pah8k6P31U6oPiD151Z
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadRPCServer exited
+ThreadOpenConnections started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+Flushed 0 addresses to peers.dat  17ms
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              29ms
+StopNode()
+ThreadSocketHandler exited
+ThreadMessageHandler exited
+Flushed 0 addresses to peers.dat  78ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:34:39
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             153ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  187ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=EdfmQ9ZsnkziH61K725pXtAm9KUDJQpHKdZGn1AvbzQn
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+wallet.dat detach
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+wallet.dat closed
+DBFlush(false) ended              48ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:35:15
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             144ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  205ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=Fh91N4K7utDPCGJPpH34f8rT4CX9LS4WXBGVpZmS3VMn
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenConnections started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDumpAddress exited
+ThreadSocketHandler exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              28ms
+StopNode()
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:36:14
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             130ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  188ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=6gRxnJ8RzqLK4muZtFTZMKaekvRkp9Pz6QKBq1S4mCYq
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended               9ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  53ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:36:53
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             122ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  200ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=YxQ9E1cnoQmBH8PaHAHMQGzugq1SERKFhzGQFTuC7zh
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadRPCServer exited
+ThreadMessageHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+Flushed 0 addresses to peers.dat  14ms
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              13ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  16ms
+Flush(true)
+DBFlush(true) ended               0ms
+ThreadMessageHandler exited
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:37:07
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index              86ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  232ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=98tyhk87mhgSU3zRzmKW3pe9MRgqz9q92BsaZPwcnrNR
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler exited
+ThreadOpenConnections started
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              50ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:38:21
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             117ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  213ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=B8Q1U3JMXoFwA4NE5CrVKxMHpoNj3732rMyr8adeBRHZ
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended               6ms
+StopNode()
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadMessageHandler exited
+ThreadDumpAddress exited
+Flushed 0 addresses to peers.dat  5ms
+Flush(true)
+DBFlush(true) ended               0ms
+ThreadSocketHandler exited
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:38:34
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             147ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  186ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=CfToPjmfPAhiDFdMzAWfqjwWDc5dFN8PikbxZD1QgqEp
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+wallet.dat detach
+ThreadDumpAddress exited
+wallet.dat closed
+DBFlush(false) ended               6ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  5ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:39:27
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             146ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  269ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  1ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=9z6cqvDkezJQx2RJf78T3NaBFkKY2UTpqbYfjL42a9K3
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadDumpAddress exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+wallet.dat closed
+DBFlush(false) ended              10ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:39:52
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             122ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  199ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  1ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=2wSRTEVcpuNvGe9xoBEkVenTQbVwyzJDA4V7sVReSQss
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+wallet.dat closed
+DBFlush(false) ended              47ms
+StopNode()
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  7ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:42:13
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             136ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  242ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=CPWeGx8VMqDmpRbDS2YgjiVZfc3afDWhxCQPZshUU8pT
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler started
+wallet.dat detach
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadDumpAddress exited
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              80ms
+StopNode()
+Flushed 0 addresses to peers.dat  15ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:44:40
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index              95ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  219ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=QpNPsuxPN7xARwV9x4uGsEyCxANJ78gWEZJ7v8u6w1c
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadIRCSeed started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+Flushed 0 addresses to peers.dat  44ms
+ThreadSocketHandler exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              41ms
+StopNode()
+ThreadMessageHandler exited
+Flushed 0 addresses to peers.dat  40ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:45:06
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             119ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  203ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=CNWirBfy1EAS5Nkm7yg12qQMpnisig8bWR7KF9sBspAC
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadMessageHandler started
+ThreadSocketHandler started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+Flushed 0 addresses to peers.dat  7ms
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              10ms
+StopNode()
+ThreadSocketHandler exited
+ThreadMessageHandler exited
+Flushed 0 addresses to peers.dat  25ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:51:41
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             124ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  250ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=GzZnQAW8tUDQQu2pWsPnM1nCrnZXMxADMRtBqFujbbTT
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              24ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  37ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:53:04
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             131ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  365ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=3XPArYHyY9gUn5UhCoLe2GTPWAtYaeZRo4gvowLyLQ5Y
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              79ms
+StopNode()
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:53:40
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             132ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  234ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=6tLsH7V1Xaooq4FnNSnuFuX8zs85q4sZWiEnWkmDYhU6
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadIRCSeed started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              28ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  9ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:54:00
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             143ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  245ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=AVdJcD8EGmKzTXgAyvfKVJSrheFxhkXx4VKgQeczKAcB
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              69ms
+StopNode()
+Flushed 0 addresses to peers.dat  7ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:54:58
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             125ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  206ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=Abw6sGEFFXdsG4MfNrR3pM6afkdYWfckkww8wHGv5R3d
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadDumpAddress exited
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended             110ms
+StopNode()
+Flushed 0 addresses to peers.dat  19ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:55:16
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             124ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  213ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=B8frefbXoXWnysfetC87W793UPvS3X2jQVDxVwsVVF5q
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDumpAddress exited
+ThreadMessageHandler exited
+ThreadSocketHandler started
+wallet.dat closed
+DBFlush(false) ended              47ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  5ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:58:32
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             132ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  198ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=5E1MBbnFYFex6LJMA9K6ZFwyTGgGQqYTD21fNcTivfKX
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadSocketHandler started
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler exited
+ThreadOpenConnections started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              43ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  4ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:58:48
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             147ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  249ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=Ezh3ZPxxwXV8Aj4xwcNnQeXU2a7qpjqU89ZbXGzELTLx
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler started
+ThreadDumpAddress exited
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              29ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  21ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 03:59:24
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             141ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  204ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=DZpCDnea7PhK3VifZSWvirbqHEU1PcqeNVwtnz2qj8SZ
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              74ms
+StopNode()
+Flushed 0 addresses to peers.dat  12ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:05:56
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             151ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  221ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=8bv4jbRwkfvh7nzuU93MCixoFu2qvyzgdn7dwwfVw14p
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDumpAddress exited
+ThreadSocketHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadOpenConnections started
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              50ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  6ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:06:11
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             161ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  183ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=F9YwRRqBzKkhDcP4cAF1vc8ymkzo3Ab1TzX6ktk8o4Qk
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler started
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              44ms
+StopNode()
+ThreadOpenConnections started
+ThreadDumpAddress exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler exited
+ThreadSocketHandler started
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  9ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:06:25
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             190ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  186ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=6HkMWUb1r6vTVKSFifgPnCWgfKj3fAbN9AhzwJhW1jgj
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadOpenConnections started
+ThreadDumpAddress exited
+ThreadMessageHandler started
+ThreadMessageHandler exited
+ThreadSocketHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadIRCSeed exited
+wallet.dat closed
+DBFlush(false) ended             239ms
+StopNode()
+Flushed 0 addresses to peers.dat  10ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:06:42
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             149ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  245ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=8ZoL9h3mjW59TnKAwhGpx6BnfRJCZGnBLcWNs9L5qUhg
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadMessageHandler started
+ThreadMessageHandler exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadDumpAddress exited
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended              54ms
+StopNode()
+Flushed 0 addresses to peers.dat  33ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:07:49
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             147ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  227ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=9BkvrwhwyvKHc73H2yNsTNLxjCoWKouQZ6CojBCM2BwZ
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+wallet.dat detach
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadMessageHandler exited
+ThreadOpenConnections started
+wallet.dat closed
+DBFlush(false) ended              51ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  7ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:07:58
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             106ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  283ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=GjRGaiSk1BPKRP5U8np2hJs8mYRFnStWKXKXty86cFE4
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadSocketHandler started
+ThreadMessageHandler started
+ThreadDumpAddress exited
+wallet.dat detach
+ThreadMessageHandler exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+wallet.dat closed
+DBFlush(false) ended              87ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  42ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:10:23
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             136ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  217ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=3VTEwisHCAJurLKmen9PRPGRAxKJaYHE9kku5xwLSMue
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadSocketHandler started
+ThreadOpenConnections started
+ThreadMessageHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler exited
+ThreadDumpAddress exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+wallet.dat detach
+wallet.dat closed
+DBFlush(false) ended              50ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  6ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:23:20
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index              79ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  185ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=7ZeBLjXgbn1YB57MvjJTDZHUjHCCvZtBLhF4mTLmNAUR
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadRPCServer exited
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+wallet.dat detach
+ThreadSocketHandler started
+ThreadIRCSeed started
+ThreadIRCSeed exited
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadMessageHandler started
+ThreadOpenConnections started
+ThreadMessageHandler exited
+ThreadDumpAddress exited
+wallet.dat closed
+DBFlush(false) ended              41ms
+StopNode()
+ThreadSocketHandler exited
+Flushed 0 addresses to peers.dat  46ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:24:03
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             135ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  225ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  0ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+Error: To use Coin, you must set a rpcpassword in the configuration file:
+ /home/user/.Coin/Coin.conf
+It is recommended you use the following random password:
+rpcuser=Coinrpc
+rpcpassword=9kAFgMXTFNpqkGJqSM4Xajj3ZN1RMcEy6wx6cgb29QKH
+(you do not need to remember this password)
+If the file does not exist, create it with owner-readable-only file permissions.
+
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadRPCServer exited
+ThreadSocketHandler started
+ThreadIRCSeed started
+Flush(false)
+blkindex.dat refcount=0
+blkindex.dat checkpoint
+ThreadOpenConnections started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadDumpAddress exited
+ThreadMessageHandler started
+blkindex.dat closed
+wallet.dat refcount=0
+wallet.dat checkpoint
+ThreadMessageHandler exited
+wallet.dat detach
+ThreadSocketHandler exited
+wallet.dat closed
+DBFlush(false) ended             105ms
+StopNode()
+Flushed 0 addresses to peers.dat  43ms
+Flush(true)
+DBFlush(true) ended               0ms
+Coin exited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coin version v0.6.3.0-unk-beta (2014-09-22 01:13:14 -0700)
+Startup time: 11/10/17 04:26:14
+Default data directory /home/user/.Coin
+Used data directory /home/user/.Coin
+Bound to [::]:36329
+Bound to 0.0.0.0:36329
+Loading block index...
+dbenv.open LogDir=/home/user/.Coin/database ErrorFile=/home/user/.Coin/db.log
+LoadBlockIndex(): hashBestChain=41e0f9e4c6950163b540  height=0  date=11/06/17 01:29:10
+Verifying last 0 blocks at level 1
+ block index             114ms
+Loading wallet...
+nFileVersion = 60300
+ wallet                  229ms
+Loading addresses...
+Loaded 0 addresses from peers.dat  1ms
+mapBlockIndex.size() = 1
+nBestHeight = 0
+setKeyPool.size() = 100
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+Done loading
+ThreadRPCServer started
+send version message: version 60001, blocks=0, us=0.0.0.0:0, them=0.0.0.0:0, peer=127.0.0.1:0
+ThreadIRCSeed started
+ThreadDNSAddressSeed started
+Loading addresses from DNS seeds (could take a while)
+0 addresses found from DNS seeds
+ThreadDNSAddressSeed exited
+ThreadSocketHandler started
+ThreadOpenAddedConnections started
+ThreadOpenAddedConnections exited
+ThreadOpenConnections started
+ThreadMessageHandler started
+Flushed 0 addresses to peers.dat  4ms
+IRC :irc.smutfairy.com NOTICE * :*** Looking up your hostname
+IRC :irc.smutfairy.com NOTICE * :*** Found your hostname
+IRC SENDING: NICK x481000144
+IRC SENDING: USER x481000144 8 * : x481000144
+IRC :irc.smutfairy.com 001 x481000144 :Welcome to the LFNet Internet Relay Chat Network x481000144
+IRC :irc.smutfairy.com 002 x481000144 :Your host is irc.smutfairy.com[::/6667], running version hybrid-8.2.8
+IRC :irc.smutfairy.com 003 x481000144 :This server was created Sep 11 2015 at 16:23:32
+IRC :irc.smutfairy.com 004 x481000144 irc.smutfairy.com hybrid-8.2.8 DFGHRSWabcdefgijklnopqrsuwxy bchiklmnoprstveCIMORS bkloveIh
+IRC SENDING: USERHOST x481000144
+IRC :irc.smutfairy.com 302 x481000144 :x481000144=+x481000144@73.212.146.210 
+GetIPFromIRC() got userhost 73.212.146.210
+GetIPFromIRC() returned 73.212.146.210
+AddLocal(73.212.146.210:36329,4)
+IRC SENDING: NICK u59ackBub59DEbE
+IRC SENDING: JOIN #Coin00
+IRC SENDING: WHO #Coin00
+GetMyExternalIP() received [73.212.146.210] 73.212.146.210:0
+GetMyExternalIP() returned 73.212.146.210
+AddLocal(73.212.146.210:36329,5)
+IRC got join
+Added 73.212.146.210:36329 from 62.210.131.147: 0 tried, 1 new
+IRC got new address: 73.212.146.210:36329
+IRC got who
+Flushed 1 addresses to peers.dat  5ms
+Coin: Cannot obtain a lock on data directory /home/user/.Coin.  Coin is probably already running.
+Flush(false) db not started
+StopNode()
+Flushed 0 addresses to peers.dat  52ms
+Flush(true) db not started
+Coin exited
+
+ThreadRPCServer method=getinfo
+keypool added key 102, size=101
+keypool reserve 2
+keypool return 2
+Flushing wallet.dat
+Flushed wallet.dat 7ms
+Flushed 1 addresses to peers.dat  5ms
+ThreadRPCServer method=setgenerate
+1 processors
+Starting 1 BitcoinMiner threads
+BitcoinMiner started
+ThreadRPCServer method=getmininginfo
+ThreadRPCServer method=Listaccounts
+ThreadRPCServer method=listaccounts
+Flushed 1 addresses to peers.dat  6ms
+ThreadRPCServer method=getmininginfo
+Flushed 1 addresses to peers.dat  5ms
+ThreadRPCServer method=setgenerate
+1 processors
+Starting 0 BitcoinMiner threads
+ThreadRPCServer method=getmininginfo
+Flushed 1 addresses to peers.dat  17ms
+Flushed 1 addresses to peers.dat  25ms
+Flushed 1 addresses to peers.dat  29ms
+Flushed 1 addresses to peers.dat  6ms
+Flushed 1 addresses to peers.dat  6ms
+Flushed 1 addresses to peers.dat  7ms
+Flushed 1 addresses to peers.dat  358ms
+Flushed 1 addresses to peers.dat  41ms
+Flushed 1 addresses to peers.dat  5ms
+Flushed 1 addresses to peers.dat  11ms
+Flushed 1 addresses to peers.dat  5ms
+Flushed 1 addresses to peers.dat  9ms
+Flushed 1 addresses to peers.dat  12ms
+Flushed 1 addresses to peers.dat  7ms
+Flushed 1 addresses to peers.dat  19ms
+Flushed 1 addresses to peers.dat  11ms
+Flushed 1 addresses to peers.dat  4ms
